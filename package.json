@@ -1,0 +1,1 @@
+{\n  "name": "sweet-app",\n  "version": "1.0.0",\n  "scripts": {\n    "build": "webpack --mode production",\n    "start": "webpack serve --open",\n    "test": "jest"\n  },\n  "dependencies": {},\n  "devDependencies": {\n    "webpack": "^5.0.0",\n    "webpack-cli": "^4.0.0",\n    "webpack-dev-server": "^3.0.0",\n    "jest": "^26.0.0"\n  }\n}
